@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn--like {
+  border: none;
+  background-color: #b5b5b5;
+  color: white;
+  font-size: 14px;
+}
+
+.btn--unlike {
+  border: none;
+  background-color: #03a5fc;
+  color: white;
+  font-size: 14px;
+}
+
+.btn--show {
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  color: grey;
+}
